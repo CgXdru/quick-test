@@ -2,7 +2,7 @@
 
 Một ứng dụng Web siêu nhẹ (Single-file HTML) giúp tạo và làm bài thi trắc nghiệm Tiếng Anh (như TOEIC) từ dữ liệu thô của file Word. Không cần Database, không cần cài đặt, chạy trực tiếp trên trình duyệt.
 
-🚀 **Trải nghiệm ngay tại đây:** [Link-Web-Của-Bạn]
+🚀 **Trải nghiệm ngay tại đây: https://dainty-panda-2cfe68.netlify.app
 
 ---
 
